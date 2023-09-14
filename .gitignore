@@ -5,9 +5,6 @@ deploy/
 # Generated list of assets
 assets/index.js
 
-# Dotenv
-.env
-
 # DS_STORE FILES
 .DS_Store
 
